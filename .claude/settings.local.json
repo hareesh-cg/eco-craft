@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(*)",
+      "Bash(*)",
+      "Skill(*)",
+      "WebSearch(*)",
+      "mcp__context7__resolve-library-id",
+      "mcp__context7__query-docs",
+      "mcp__supabase__list_projects",
+      "mcp__supabase__apply_migration"
+    ]
+  }
+}
